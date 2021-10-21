@@ -1,0 +1,2 @@
+# EmployeeManagementCore
+DotNetCore
